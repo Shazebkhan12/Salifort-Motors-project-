@@ -60,7 +60,9 @@ Why are employees leaving the company, and what can be done to prevent it?
 ### Key Visualizations
 
 - Boxplot of `average_monthly_hours` vs `number_project`, colored by `left`
+- Scatterplot of `average_monthly_hours` versus `satisfaction_level`
 - Histogram showing project count distribution across `left` vs `stayed`
+- Correlation heatmap
 
 ### Important Insights
 
